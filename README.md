@@ -1,6 +1,6 @@
 # PermissionX
 
-[中文文档](https://blog.csdn.net/sinyu890807/category_10108528.html)
+[中文文档](README_zh.md)
 
 PermissionX is an extension Android library that makes Android runtime permission request extremely easy. You can use it for basic permission request occasions or handle more complex conditions, like showing rationale dialog or go to app settings for allowance manually.
 
